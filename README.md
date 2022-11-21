@@ -4,7 +4,7 @@ Jobberman is a popular online jobs platform in Nigeria that connects qualified p
 In this project, we will retrieve information from this job category Accounting, Auditing & Finance using a technique called web scraping.
 Here's an outline of the steps we'll follow.
 
-*Download the webpage using Requests
+* Download the webpage using Requests
 Parse the HTML source code using Beautiful Soup
 Extract featured jobs from each job category
 Compile extracted information into Python dictionaries
